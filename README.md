@@ -1,2 +1,7 @@
+#VIVA
 How to make your mac sing:
-curl -s https://raw.github.com/peroja/viva/master/sing.sh | bash
+
+##Ralphs voice
+curl -s https://raw.github.com/peroja/viva/ralph/sing.sh | bash
+##Pipe Organ
+curl -s https://raw.github.com/peroja/viva/pipe/sing.sh | bash
